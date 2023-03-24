@@ -5,7 +5,7 @@ of you founded a bugs click Issues
 
 Click Tags
 
-![Capture](https://user-images.githubusercontent.com/121486721/215028102-c1b93a67-1523-4a20-85d2-d933213abfd8.PNG)
+![CaptureNew](https://user-images.githubusercontent.com/121486721/227449025-efe41705-30f2-4071-889a-3786ae75e825.PNG)
 
 can be use edit
 
