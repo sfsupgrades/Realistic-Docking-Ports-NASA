@@ -3,7 +3,7 @@ so Realistic Docking Ports NASA
 
 of you founded a bugs click Issues
 
-Click Tags
+Click Tags or release
 
 ![Screenshot 2023-08-02 173717](https://github.com/sfsupgrades/Realistic-Docking-Ports-NASA/assets/121486721/a6e3b16e-c515-4d28-9097-7f875510e0e0)
 
