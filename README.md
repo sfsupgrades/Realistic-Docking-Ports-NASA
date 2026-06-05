@@ -1,3 +1,4 @@
+
 # Realistic-Docking-Ports-NASA
 so Realistic Docking Ports NASA
 
@@ -5,7 +6,7 @@ of you founded a bugs click Issues
 
 Click Tags or release
 
-![Screenshot 2023-08-02 173717](https://github.com/sfsupgrades/Realistic-Docking-Ports-NASA/assets/121486721/a6e3b16e-c515-4d28-9097-7f875510e0e0)
+<img width="618" height="615" alt="New Docking Ports Icon" src="https://github.com/user-attachments/assets/9bf83532-d03e-4bbb-b629-0486be791a11" />
 
 can be use part edit
 
